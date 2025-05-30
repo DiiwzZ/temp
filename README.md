@@ -98,4 +98,3 @@ temp.bat
 **พัฒนาโดย [DiiwzZ](https://github.com/DiiwzZ)**
 
 </div> 
-``` 
